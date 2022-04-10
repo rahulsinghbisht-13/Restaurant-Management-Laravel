@@ -1,5 +1,7 @@
 <?php
 
+// code for dishes to be displayed
+
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
