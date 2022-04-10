@@ -1,5 +1,7 @@
 <?php
 
+// code to fill database with data
+
 namespace Database\Seeders;
 
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
