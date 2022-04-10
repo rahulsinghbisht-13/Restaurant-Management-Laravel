@@ -1,4 +1,5 @@
 <?php
+// code to create a new user
 
 namespace App\Actions\Fortify;
 
