@@ -1,4 +1,5 @@
 <?php
+// admin controller
 
 namespace App\Http\Controllers;
 
